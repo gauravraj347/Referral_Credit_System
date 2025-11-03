@@ -29,5 +29,5 @@ A full-stack referral and credit system for digital product platforms, built wit
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/gauravraj347/Referral_Credit_System.git](https://github.com/gauravraj347/Referral_Credit_System.git)
+git clone https://github.com/gauravraj347/Referral_Credit_System.git
 cd filesure-referral-system
